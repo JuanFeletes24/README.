@@ -1,5 +1,5 @@
 # README.
-know something about me :)
+<h4>know something about me :)</h4>
 <h1 align="center">Hi 👋, I'm Juan Felipe Rojas</h1>
 <h3 align="center">I'm actually student of Applied Maths and Computer Science trying to be an AI developer.</h3>
 
