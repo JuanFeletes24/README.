@@ -9,8 +9,7 @@ know something about me :)
 
 - 📫 How to reach me **juanfeliperojasabc12@gmail.com**
 
-- 📄 Know about my experiences [I got graduated recently and now i'm trying to learn some programming languages (specially on backend) to get knowledge.](I got graduated recently and now i'm trying to learn some programming languages (specially on backend) to get knowledge.)
-
+- 📄 Know about my experiences: I got graduated recently and now i'm trying to learn some programming languages (specially on backend) to get knowledge.
 - ⚡ Fun fact **I get very crazy sometimes but only in confidence 😱.**
 
 <h3 align="left">Connect with me:</h3>
